@@ -1,0 +1,3 @@
+TO GRADER:
+
+While testing in the beginning, I noticed sometimes it did not work/took a very long time to load. However later on after fixing some errors, it seemed to run propperly. Additionally there were some warnings (from what I recall) regarding the buffer, however the proxy I think seemed to run fine.
